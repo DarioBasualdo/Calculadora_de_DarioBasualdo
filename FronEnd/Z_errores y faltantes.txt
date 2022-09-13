@@ -1,0 +1,17 @@
+﻿
+   /*
+    
+  
+    Faltantes
+    *falta hacer operaciones con mas variables(mas numeros)
+    *boton reiciniciar
+    *boton apagado
+    *que la pantalla inicie en cero
+
+    errores
+    *si aprieta igual sin cargar ningun valor salta error
+    *si hace operaciones sumando hasta tres numeros solo suma los ultimos 2
+    *si aprieto el boton borrar despues de apretar el boton igual sale error
+    *
+   
+    */

@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\bin\Debug\FronEnd.exe.config
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\bin\Debug\FronEnd.exe
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\bin\Debug\FronEnd.pdb
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.exe
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.Calculadora.resources
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\c#_Profe\Calculadora\Calculadora\FronEnd\obj\Debug\FronEnd.csproj.CopyComplete
